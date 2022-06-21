@@ -93,7 +93,9 @@ Build a Digital Clock web site
 
 - You can add additional functionalities to your clock.
 
+# My Solution
 
+https://ahmetnuriuygun.github.io/digital-clock/
 
 
 <center> ⌛ Happy Coding  ✍ </center>
